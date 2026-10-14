@@ -1,0 +1,10 @@
+# 依赖目录（用 npm install 重新安装即可）
+node_modules/
+
+# IDE 配置（各人本地环境不同，不上传）
+.idea/
+.vscode/
+
+# 日志与临时文件
+*.log
+npm-debug.log*

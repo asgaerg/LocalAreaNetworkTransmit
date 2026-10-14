@@ -1,0 +1,2 @@
+# 统一换行符为 LF（Node.js 项目惯例，避免 Windows/macOS 协作时全文 diff）
+* text=auto eol=lf
